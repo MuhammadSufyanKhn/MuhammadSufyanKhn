@@ -10,7 +10,9 @@
   </a>
 </div>
 
-<!-- Badges Row -->
+<br/>
+
+<!-- Animated Badges Row -->
 <div align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-.NET%20Backend-7c3aed?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Pakistan%20🇵🇰-22c55e?style=for-the-badge" />
@@ -18,6 +20,15 @@
 </div>
 
 <br/>
+
+<!-- Animated Snake Contribution Graph -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadSufyanKhn/MuhammadSufyanKhn/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadSufyanKhn/MuhammadSufyanKhn/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/MuhammadSufyanKhn/MuhammadSufyanKhn/output/github-snake-dark.svg" />
+  </picture>
+</div>
 
 ---
 
@@ -115,12 +126,11 @@ namespace MuhammadSufyan.Profile
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadSufyanKhn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSufyanKhn&layout=compact&langs_count=8&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&hide_border=false" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSufyanKhn&theme=tokyonight&border=7c3aed&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&hide_border=false" />
+  <!-- Main stats: Total Repos, Total Contributions, Stars Earned -->
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=MuhammadSufyanKhn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed&hide_border=false&hide=prs,issues,contribs&show=reviews,discussions_started,prs_merged_percentage&custom_title=Sufyan%27s+GitHub+Stats&rank_icon=github" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSufyanKhn&layout=compact&langs_count=8&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&hide_border=false" />
+
 </div>
 
 ---
@@ -128,7 +138,7 @@ namespace MuhammadSufyan.Profile
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadSufyanKhn&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadSufyanKhn&theme=tokyonight&no-frame=false&column=4&margin-w=10&margin-h=10&no-bg=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
 ---
@@ -136,7 +146,7 @@ namespace MuhammadSufyan.Profile
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadSufyanKhn&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadSufyanKhn&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=false&border_color=7c3aed&area_color=1a1035" />
 </div>
 
 ---
