@@ -1,34 +1,27 @@
-<!-- Animated Wave Header -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   ANIMATED WAVE HEADER                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1035,100:7c3aed&height=220&section=header&text=Muhammad%20Sufyan%20Khan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=.NET%20Backend%20Developer%20%7C%20SQL%20Engineer%20%7C%20API%20Specialist&descAlignY=58&descSize=17&descColor=c4b5fd" />
 </div>
 
-<!-- Typing Animation -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     TYPING ANIMATION                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=650&lines=🔧+Building+scalable+backend+systems;⚙️+ASP.NET+Core+%7C+C%23+%7C+SQL+Server;🔐+Secure+APIs+%7C+JWT+%7C+Clean+Architecture;🚀+Turning+complex+problems+into+clean+code;🎯+Enterprise-grade+software+solutions" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+.NET+backend+systems+%F0%9F%94%A7;ASP.NET+Core+%7C+C%23+%7C+SQL+Server+%E2%9A%99%EF%B8%8F;JWT+Auth+%7C+Clean+Architecture+%7C+SOLID+%F0%9F%94%90;Turning+complex+problems+into+clean+code+%F0%9F%9A%80;Enterprise-grade+software+solutions+%F0%9F%8E%AF" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- Animated Badges Row -->
+<!-- STATUS BADGES -->
 <div align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-.NET%20Backend-7c3aed?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Pakistan%20🇵🇰-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Pakistan-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20APIs-0ea5e9?style=for-the-badge&logo=swagger&logoColor=white" />
 </div>
 
 <br/>
-
-<!-- Animated Snake Contribution Graph -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadSufyanKhn/MuhammadSufyanKhn/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadSufyanKhn/MuhammadSufyanKhn/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/MuhammadSufyanKhn/MuhammadSufyanKhn/output/github-snake-dark.svg" />
-  </picture>
-</div>
 
 ---
 
@@ -71,33 +64,33 @@ namespace MuhammadSufyan.Profile
 
 ### 💻 Backend Development
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### 🗃️ Database & ORM
 <p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/LINQ-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINQ-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 </p>
 
 ### 🔐 Security & Auth
 <p>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role--Based_Auth-7c3aed?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Secure_APIs-22c55e?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role%20Based%20Auth-7c3aed?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Secure%20APIs-22c55e?style=for-the-badge&logoColor=white" />
 </p>
 
 ### ⚒️ Tools & DevOps
 <p>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -125,12 +118,21 @@ namespace MuhammadSufyan.Profile
 
 ## 📊 GitHub Stats
 
+<!-- NOTE: If cards show broken, open github.com/MuhammadSufyanKhn in an incognito window — 
+     these services cache and the cards appear after first load. -->
+
 <div align="center">
+  <a href="https://github.com/MuhammadSufyanKhn">
+    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=MuhammadSufyanKhn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&bg_color=0d1117&hide=prs,issues&rank_icon=percentile&custom_title=Sufyan%27s+GitHub+Stats" />
+  </a>
+  <a href="https://github.com/MuhammadSufyanKhn">
+    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSufyanKhn&layout=compact&langs_count=8&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&text_color=c4b5fd&bg_color=0d1117&hide_border=false" />
+  </a>
+</div>
 
-  <!-- Main stats: Total Repos, Total Contributions, Stars Earned -->
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=MuhammadSufyanKhn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed&hide_border=false&hide=prs,issues,contribs&show=reviews,discussions_started,prs_merged_percentage&custom_title=Sufyan%27s+GitHub+Stats&rank_icon=github" />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSufyanKhn&layout=compact&langs_count=8&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&hide_border=false" />
-
+<!-- Self-hosted metrics (generated by GitHub Actions - see .github/workflows/metrics.yml) -->
+<div align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
 
 ---
@@ -138,7 +140,7 @@ namespace MuhammadSufyan.Profile
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadSufyanKhn&theme=tokyonight&no-frame=false&column=4&margin-w=10&margin-h=10&no-bg=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadSufyanKhn&theme=tokyonight&no-frame=false&column=4&margin-w=12&margin-h=12&title=Repositories,Commits,Stars,Followers,Issues,PullRequest,Reviews,MultiLanguage" />
 </div>
 
 ---
@@ -146,7 +148,7 @@ namespace MuhammadSufyan.Profile
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadSufyanKhn&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=false&border_color=7c3aed&area_color=1a1035" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadSufyanKhn&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=false&border_color=7c3aed" />
 </div>
 
 ---
@@ -158,7 +160,7 @@ namespace MuhammadSufyan.Profile
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:khansufyanasim@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/MuhammadSufyanKhn">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -167,15 +169,12 @@ namespace MuhammadSufyan.Profile
 
 <br/>
 
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MuhammadSufyanKhn&label=Profile+Views&color=7c3aed&style=for-the-badge" />
 </div>
 
 <br/>
 
-<!-- Animated Wave Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0d1117&height=130&section=footer" />
 </div>
