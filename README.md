@@ -1,13 +1,11 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!--                   ANIMATED WAVE HEADER                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1035,100:7c3aed&height=220&section=header&text=Muhammad%20Sufyan%20Khan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=.NET%20Backend%20Developer%20%7C%20SQL%20Engineer%20%7C%20API%20Specialist&descAlignY=58&descSize=17&descColor=c4b5fd" />
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     TYPING ANIMATION                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- TYPING ANIMATION -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+.NET+backend+systems+%F0%9F%94%A7;ASP.NET+Core+%7C+C%23+%7C+SQL+Server+%E2%9A%99%EF%B8%8F;JWT+Auth+%7C+Clean+Architecture+%7C+SOLID+%F0%9F%94%90;Turning+complex+problems+into+clean+code+%F0%9F%9A%80;Enterprise-grade+software+solutions+%F0%9F%8E%AF" alt="Typing SVG" />
 </div>
@@ -62,41 +60,58 @@ namespace MuhammadSufyan.Profile
 
 ## 🛠️ Tech Stack
 
-### 💻 Backend Development
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+<div align="center">
 
-### 🗃️ Database & ORM
-<p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/LINQ-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-</p>
+### 💻 Backend & Languages
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python&theme=dark&perline=3)](https://skillicons.dev)
+
+<br/>
+
+| Language / Framework | Role |
+|:---:|:---|
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) **C#** | Primary language — clean, typed, powerful |
+| ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) **ASP.NET Core** | Web API & MVC backend framework |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | AI/ML scripts & automation |
+
+---
+
+### 🗄️ Databases & ORM
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=mssql,mysql&theme=dark&perline=2)](https://skillicons.dev)
+
+<br/>
+
+| Tool | Role |
+|:---:|:---|
+| ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) **SQL Server** | Primary relational database |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) **MySQL** | Open-source DB for web projects |
+| ![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) **EF Core + LINQ** | ORM for clean data access |
+
+---
 
 ### 🔐 Security & Auth
-<p>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role%20Based%20Auth-7c3aed?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Secure%20APIs-22c55e?style=for-the-badge&logoColor=white" />
-</p>
+
+<br/>
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Role Based Auth](https://img.shields.io/badge/Role--Based%20Auth-7c3aed?style=for-the-badge&logoColor=white)
+![Secure APIs](https://img.shields.io/badge/Secure%20APIs-22c55e?style=for-the-badge&logoColor=white)
+
+---
 
 ### ⚒️ Tools & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,docker&theme=dark&perline=6)](https://skillicons.dev)
+
+<br/>
+
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+</div>
 
 ---
 
@@ -118,19 +133,16 @@ namespace MuhammadSufyan.Profile
 
 ## 📊 GitHub Stats
 
-<!-- NOTE: If cards show broken, open github.com/MuhammadSufyanKhn in an incognito window — 
-     these services cache and the cards appear after first load. -->
-
 <div align="center">
-  <a href="https://github.com/MuhammadSufyanKhn">
-    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=MuhammadSufyanKhn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&bg_color=0d1117&hide=prs,issues&rank_icon=percentile&custom_title=Sufyan%27s+GitHub+Stats" />
-  </a>
-  <a href="https://github.com/MuhammadSufyanKhn">
-    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSufyanKhn&layout=compact&langs_count=8&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&text_color=c4b5fd&bg_color=0d1117&hide_border=false" />
-  </a>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=MuhammadSufyanKhn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&bg_color=0d1117&hide=prs,issues&rank_icon=percentile&custom_title=Sufyan%27s+GitHub+Stats" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSufyanKhn&layout=compact&langs_count=8&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&text_color=c4b5fd&bg_color=0d1117" />
 </div>
 
-<!-- Self-hosted metrics (generated by GitHub Actions - see .github/workflows/metrics.yml) -->
+---
+
+## 📈 Full GitHub Metrics
+
+<!-- Self-generated by GitHub Actions - always reliable, never rate-limited -->
 <div align="center">
   <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
@@ -140,7 +152,7 @@ namespace MuhammadSufyan.Profile
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadSufyanKhn&theme=tokyonight&no-frame=false&column=4&margin-w=12&margin-h=12&title=Repositories,Commits,Stars,Followers,Issues,PullRequest,Reviews,MultiLanguage" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadSufyanKhn&theme=tokyonight&no-frame=false&column=4&margin-w=12&margin-h=12&title=Repositories,Commits,Followers,Stars" />
 </div>
 
 ---
@@ -156,15 +168,23 @@ namespace MuhammadSufyan.Profile
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/muhammad-sufyan-khan-72574b3a3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:khansufyanasim@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/MuhammadSufyanKhn">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/muhammad-sufyan-khan-72574b3a3/)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:khansufyanasim@gmail.com)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/MuhammadSufyanKhn)
+
+<br/>
+
+<a href="https://www.linkedin.com/in/muhammad-sufyan-khan-72574b3a3/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:khansufyanasim@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/MuhammadSufyanKhn">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
 
 <br/>
